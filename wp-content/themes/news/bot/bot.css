@@ -2,11 +2,6 @@ a {
     cursor: pointer !important;
 }
 
-.bot-menu {
-    -webkit-filter: url("#goo");
-    filter: url("#goo");
-}
-
 .bot-menu-item, .bot-menu-open-button {
     background: #000000;
     border-radius: 100%;
@@ -28,19 +23,6 @@ a {
 
 .bot-menu-open {
     display: none;
-}
-
-.bot-menu-open:checked + .bot-menu-open-button .hamburger-1 {
-    -webkit-transform: translate3d(0, 0, 0) rotate(45deg);
-    transform: translate3d(0, 0, 0) rotate(45deg);
-}
-.bot-menu-open:checked + .bot-menu-open-button .hamburger-2 {
-    -webkit-transform: translate3d(0, 0, 0) scale(0.1, 1);
-    transform: translate3d(0, 0, 0) scale(0.1, 1);
-}
-.bot-menu-open:checked + .bot-menu-open-button .hamburger-3 {
-    -webkit-transform: translate3d(0, 0, 0) rotate(-45deg);
-    transform: translate3d(0, 0, 0) rotate(-45deg);
 }
 
 .bot-menu {
@@ -115,38 +97,38 @@ a {
 }
 .bot-menu-open:checked ~ .bot-menu-item:nth-child(3) {
     transition-duration: 180ms;
-    -webkit-transform: translate3d(0.08361px, -104.99997px, 0);
-    transform: translate3d(0.08361px, -104.99997px, 0);
+    -webkit-transform: translate3d(0.08361px, -130.99997px, 0);
+    transform: translate3d(0.08361px, -130.99997px, 0);
 }
 .bot-menu-open:checked ~ .bot-menu-item:nth-child(4) {
     transition-duration: 280ms;
-    -webkit-transform: translate3d(90.9466px, -52.47586px, 0);
-    transform: translate3d(90.9466px, -52.47586px, 0);
+    -webkit-transform: translate3d(94.9466px, -89.47586px, 0);
+    transform: translate3d(94.9466px, -89.47586px, 0);
 }
 .bot-menu-open:checked ~ .bot-menu-item:nth-child(5) {
     transition-duration: 380ms;
-    -webkit-transform: translate3d(90.9466px, 52.47586px, 0);
-    transform: translate3d(90.9466px, 52.47586px, 0);
+    -webkit-transform: translate3d(126.9466px, 12.47586px, 0);
+    transform: translate3d(126.9466px, 12.47586px, 0);
 }
 .bot-menu-open:checked ~ .bot-menu-item:nth-child(6) {
     transition-duration: 480ms;
-    -webkit-transform: translate3d(0.08361px, 104.99997px, 0);
-    transform: translate3d(0.08361px, 104.99997px, 0);
+    -webkit-transform: translate3d(-57.91639px, 113.99997px, 0);
+    transform: translate3d(-57.91639px, 113.99997px, 0);
 }
 .bot-menu-open:checked ~ .bot-menu-item:nth-child(7) {
     transition-duration: 580ms;
-    -webkit-transform: translate3d(-90.86291px, 52.62064px, 0);
-    transform: translate3d(-90.86291px, 52.62064px, 0);
+    -webkit-transform: translate3d(-109.86291px, 20.62064px, 0);
+    transform: translate3d(-109.86291px, 20.62064px, 0);
 }
 .bot-menu-open:checked ~ .bot-menu-item:nth-child(8) {
     transition-duration: 680ms;
-    -webkit-transform: translate3d(-91.03006px, -52.33095px, 0);
-    transform: translate3d(-91.03006px, -52.33095px, 0);
+    -webkit-transform: translate3d(-94.03006px, -84.33095px, 0);
+    transform: translate3d(-94.03006px, -84.33095px, 0);
 }
 .bot-menu-open:checked ~ .bot-menu-item:nth-child(9) {
     transition-duration: 780ms;
-    -webkit-transform: translate3d(-0.25084px, -104.9997px, 0);
-    transform: translate3d(-0.25084px, -104.9997px, 0);
+    -webkit-transform: translate3d(54.74916px, 103.0003px, 0);
+    transform: translate3d(54.74916px, 103.0003px, 0);
 }
 .hidden-node {
     display: none !important;
@@ -203,4 +185,9 @@ a {
 
 .tooltip-container-content{
     color: #000000 !important;
+}
+
+.share-widget-container-content {
+    width: 60% !important;
+    margin: 0 auto !important;
 }

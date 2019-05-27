@@ -18,6 +18,10 @@ function ct_mission_news_load_scripts_styles() {
     wp_enqueue_script( 'ct-mission-news-bot-js-images-loaded', get_template_directory_uri() . '/bot/images-loaded.js', array( 'jquery' ), '', true );
     wp_enqueue_script( 'ct-mission-news-bot-js-tooptip', get_template_directory_uri() . '/bot/tooltip.js', array( 'jquery' ), '', true );
     wp_enqueue_script( 'ct-mission-news-bot-js', get_template_directory_uri() . '/bot/bot.js', array( 'jquery' ), '', true );
+    //wp_enqueue_script( 'ct-mission-news-bot-tts', '//microsoft.cognitiveservices.speech.sdk.bundle.js', array( 'jquery' ), '', true );
+    wp_enqueue_script( 'ct-mission-news-bot-share', "//platform-api.sharethis.com/js/sharethis.js#property=5ceba461ba33c80012fc555f&product='inline-share-buttons'", array( 'jquery' ), '', true );
+    wp_enqueue_script( 'ct-mission-news-bot-tts', "//cdn.jsdelivr.net/npm/talkify-tts@2.6.0/dist/talkify.min.js", array( 'jquery' ), '', true );
+
 	wp_localize_script( 'ct-mission-news-js', 'mission_news_objectL10n', array(
 		'openMenu'       => esc_html__( 'open menu', 'mission-news' ),
 		'closeMenu'      => esc_html__( 'close menu', 'mission-news' ),

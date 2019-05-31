@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5da4a106-7f4c-4826-a5a0-1b77c84ffd3d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="5da4a106-7f4c-4826-a5a0-1b77c84ffd3d" name="Default" comment="finished deployment.">
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/news/assets/images/logo.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/news/bot/bot.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/news/bot/bot.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/news/bot/bot.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/news/bot/bot.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/news/bot/bot.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/news/bot/bot.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/news/inc/scripts.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/news/inc/scripts.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/news/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/news/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/news/logo.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/news/logo.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/news/searchform.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/news/searchform.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/news/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/news/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,20 +21,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="bot.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="bot.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/news/bot/bot.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+            <state relative-caret-position="439">
+              <caret line="147" column="12" selection-start-line="147" selection-start-column="12" selection-end-line="147" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="searchform.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="searchform.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/news/searchform.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4257">
-              <caret line="131" column="122" selection-start-line="131" selection-start-column="122" selection-end-line="131" selection-end-column="122" />
+            <state relative-caret-position="462">
+              <caret line="60" column="66" lean-forward="true" selection-start-line="60" selection-start-column="66" selection-end-line="60" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -40,8 +42,8 @@
       <file leaf-file-name="bot.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/news/bot/bot.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="633">
-              <caret line="191" column="30" selection-start-line="191" selection-start-column="30" selection-end-line="191" selection-end-column="30" />
+            <state relative-caret-position="297">
+              <caret line="69" column="23" selection-start-line="69" selection-start-column="23" selection-end-line="69" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -49,26 +51,49 @@
       <file leaf-file-name="bot.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/news/bot/bot.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="48" column="4" selection-start-line="48" selection-start-column="4" selection-end-line="56" selection-end-column="13" />
+            <state relative-caret-position="612">
+              <caret line="56" column="13" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/news/functions.php">
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/news/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10296">
-              <caret line="312" column="3" selection-start-line="312" selection-start-column="3" selection-end-line="312" selection-end-column="3" />
+            <state relative-caret-position="297">
+              <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="functions.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/news/js/functions.js">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/news/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6732">
-              <caret line="204" column="5" selection-start-line="180" selection-start-column="4" selection-end-line="204" selection-end-column="5" />
+            <state relative-caret-position="670">
+              <caret line="1546" column="33" selection-start-line="1546" selection-start-column="33" selection-end-line="1546" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/news/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="27" column="41" lean-forward="true" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/news/assets/images/footer.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="logo.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/news/logo.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="7" column="109" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="109" />
             </state>
           </provider>
         </entry>
@@ -76,8 +101,8 @@
       <file leaf-file-name="scripts.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/news/inc/scripts.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+            <state relative-caret-position="132">
+              <caret line="16" column="84" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="84" />
             </state>
           </provider>
         </entry>
@@ -86,13 +111,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>wp_enqueue</find>
-      <find>ct-mission-news-style</find>
-      <find>wp_enqueue_s</find>
-      <find>.menu</find>
-      <find>menu</find>
-      <find>site-footer</find>
-      <find>search-submit</find>
       <find>submit</find>
       <find>search-field</find>
       <find>search-toggle</find>
@@ -100,7 +118,6 @@
       <find>functions.js</find>
       <find>bot</find>
       <find>wp_enque</find>
-      <find>menu-primary-container</find>
       <find>border-top: solid 2px #000;</find>
       <find>solid 1px #DCDCDC;</find>
       <find>background: #DCDCDC;</find>
@@ -115,11 +132,21 @@
       <find>icon-cancel-btn</find>
       <find>&lt;!-- /wp:paragraph --&gt;</find>
       <find>drawer-btn</find>
+      <find>site-title</find>
+      <find>title-container</find>
+      <find>#000000</find>
+      <find>2px</find>
+      <find>d8d8d8</find>
+      <find>menu-primary-container</find>
+      <find>factsResult</find>
+      <find>iframe</find>
+      <find>fact</find>
     </findStrings>
     <replaceStrings>
       <replace>.bot-menu</replace>
       <replace>bot-menu</replace>
       <replace>000000</replace>
+      <replace>#d8d8d8</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/wp-content/themes/news</dir>
@@ -131,22 +158,24 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/wp-content/themes/news/footer.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/index.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/content/search-bar.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/bot/masonary.js" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/bot/js-render.js" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/bot/notify.js" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/bot/images-loaded.js" />
-        <option value="$PROJECT_DIR$/wp-content/themes/news/style.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/js/functions.js" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/bot/tooltip.js" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/bot/tooltip.css" />
-        <option value="$PROJECT_DIR$/wp-content/themes/news/bot/bot.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/inc/scripts.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/news/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/news/logo.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/news/footer.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/news/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/news/bot/bot.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/bot/bot.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/news/searchform.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/bot/bot.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/news/searchform.php" />
       </list>
     </option>
   </component>
@@ -202,6 +231,23 @@
               <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="news" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="news" type="b2602c69:ProjectViewProjectNode" />
+              <item name="news" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="news" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="news" type="b2602c69:ProjectViewProjectNode" />
+              <item name="news" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="news" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="bot" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
@@ -220,12 +266,17 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="product&#9;FILE&#9;file:///home/jay/Projects/news/wp-content/themes/news/js/build/production.js" />
+    <property name="SearchEverywhereHistoryKey" value="bot.ph&#9;FILE&#9;file:///home/jay/Projects/news/wp-content/themes/news/bot/bot.php&#10;style&#9;FILE&#9;file:///home/jay/Projects/news/wp-content/themes/news/style.css&#10;footer&#9;FILE&#9;file:///home/jay/Projects/news/wp-content/themes/news/footer.php&#10;footer.png&#9;FILE&#9;file:///home/jay/Projects/news/wp-content/themes/news/assets/images/footer.png&#10;script&#9;FILE&#9;file:///home/jay/Projects/news/wp-content/themes/news/inc/scripts.php&#10;logo.p&#9;FILE&#9;file:///home/jay/Projects/news/wp-content/themes/news/logo.php&#10;product&#9;FILE&#9;file:///home/jay/Projects/news/wp-content/themes/news/js/build/production.js" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/wp-content/themes/news" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wp-content/themes/news/assets/images" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -259,27 +310,38 @@
       <updated>1558768627898</updated>
       <workItem from="1558768629034" duration="25435000" />
       <workItem from="1558823575827" duration="5986000" />
-      <workItem from="1558944952445" duration="10176000" />
+      <workItem from="1558944952445" duration="10299000" />
+      <workItem from="1559004162780" duration="607000" />
+      <workItem from="1559259683087" duration="4857000" />
     </task>
+    <task id="LOCAL-00001" summary="finished deployment.">
+      <created>1558955185680</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558955185680</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41597000" />
+    <option name="totallyTimeSpent" value="47184000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="68" y="-11" width="2493" height="1092" extended-state="6" />
+    <frame x="77" y="-8" width="1844" height="1089" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25524044" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26289237" />
+      <window_info anchor="bottom" id="Docker" order="7" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978448" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -288,7 +350,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -296,6 +357,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finished deployment." />
+    <option name="LAST_COMMIT_MESSAGE" value="finished deployment." />
   </component>
   <component name="WordPressConfiguration" enabled="true">
     <wordpressPath>$PROJECT_DIR$</wordpressPath>
@@ -306,6 +371,97 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/searchform.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4323">
+          <caret line="131" column="122" selection-start-line="131" selection-start-column="122" selection-end-line="131" selection-end-column="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/bot/bot.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1584">
+          <caret line="48" column="4" selection-start-line="48" selection-start-column="4" selection-end-line="56" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10296">
+          <caret line="312" column="3" selection-start-line="312" selection-start-column="3" selection-end-line="312" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/js/functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6732">
+          <caret line="204" column="5" selection-start-line="180" selection-start-column="4" selection-end-line="204" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/inc/scripts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/bot/bot.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/bot/bot.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/searchform.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4323">
+          <caret line="131" column="122" selection-start-line="131" selection-start-column="122" selection-end-line="131" selection-end-column="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/bot/bot.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6303">
+          <caret line="191" column="30" selection-start-line="191" selection-start-column="30" selection-end-line="191" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/bot/bot.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1584">
+          <caret line="48" column="4" selection-start-line="48" selection-start-column="4" selection-end-line="56" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10296">
+          <caret line="312" column="3" selection-start-line="312" selection-start-column="3" selection-end-line="312" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/js/functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6732">
+          <caret line="204" column="5" selection-start-line="180" selection-start-column="4" selection-end-line="204" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/inc/scripts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/news/bot/bot.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="957">
@@ -419,20 +575,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-includes/general-template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="4556" column="18" lean-forward="true" selection-start-line="4556" selection-start-column="9" selection-end-line="4556" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/news/content/search-bar.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
@@ -458,9 +600,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
           <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -468,13 +607,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1501">
-          <caret line="888" column="21" selection-start-line="888" selection-start-column="21" selection-end-line="888" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -506,48 +638,86 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/functions.php">
+    <entry file="file://$PROJECT_DIR$/wp-includes/general-template.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10296">
-          <caret line="312" column="3" selection-start-line="312" selection-start-column="3" selection-end-line="312" selection-end-column="3" />
+        <state relative-caret-position="386">
+          <caret line="1012" column="9" selection-start-line="1012" selection-start-column="9" selection-end-line="1012" selection-end-column="9" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/404.php">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="371" lean-forward="true" selection-start-line="371" selection-end-line="371" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/news/inc/scripts.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+        <state relative-caret-position="132">
+          <caret line="16" column="84" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="27" column="41" lean-forward="true" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/assets/images/footer.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/logo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="109" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="670">
+          <caret line="1546" column="33" selection-start-line="1546" selection-start-column="33" selection-end-line="1546" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/news/bot/bot.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="633">
-          <caret line="191" column="30" selection-start-line="191" selection-start-column="30" selection-end-line="191" selection-end-column="30" />
+        <state relative-caret-position="297">
+          <caret line="69" column="23" selection-start-line="69" selection-start-column="23" selection-end-line="69" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/news/bot/bot.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="48" column="4" selection-start-line="48" selection-start-column="4" selection-end-line="56" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/searchform.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4257">
-          <caret line="131" column="122" selection-start-line="131" selection-start-column="122" selection-end-line="131" selection-end-column="122" />
+        <state relative-caret-position="612">
+          <caret line="56" column="13" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/news/bot/bot.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        <state relative-caret-position="439">
+          <caret line="147" column="12" selection-start-line="147" selection-start-column="12" selection-end-line="147" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/searchform.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="60" column="66" lean-forward="true" selection-start-line="60" selection-start-column="66" selection-end-line="60" selection-end-column="66" />
         </state>
       </provider>
     </entry>

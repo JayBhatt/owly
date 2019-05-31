@@ -47,7 +47,10 @@
 
 <script id="factsResult" type="text/x-jsrender">
   <div class="tooltip-container-content">
-      <p>{{>value}}</p>
+      <p>
+        <iframe src="http://localhost/weather.html" width="100%" height="400px" frameborder="0"></iframe>
+      </p>
+      <p style="text-align: center;">{{>value}}</p>
   </div>
 </script>
 

@@ -1109,13 +1109,13 @@ a img {
   clear: both;
   margin: 0.75em 0;
   padding: 1.5em 5.556% 0;
-  border-top: solid 1px #000000;
+  border-top: solid 1px #d8d8d8;
 }
 .pagination a,
 .pagination span {
   display: inline-block;
   padding: 7px 13px;
-  border: solid 1px #000000;
+  border: solid 1px #d8d8d8;
   margin: 0 0.375em 0.375em 0;
 }
 .pagination .prev {
@@ -1132,7 +1132,7 @@ a img {
 }
 @media all and (min-width: 50em) {
   .pagination {
-    border-top: solid 1px #000000;
+    border-top: solid 1px #d8d8d8;
     padding: 1.5em 0 0 0;
   }
 }
@@ -1163,8 +1163,8 @@ a img {
     position: absolute;
     top: 0;
     bottom: 0;
-    width: 2px;
-    background: #000000;
+    width: 1px;
+    background: #d8d8d8;
   }
   .content-container:before {
     left: 25%;
@@ -1211,7 +1211,7 @@ a img {
   position: relative;
   z-index: 19;
   float: right;
-  border: solid 1px #000000;
+  border: solid 1px #d8d8d8;
   border-radius: 3px;
   background: none;
   margin: 0;
@@ -1544,8 +1544,8 @@ a img {
     transform: none;
     overflow: visible;
     text-align: center;
-    border-top: solid 2px #000;
-    border-bottom: solid 2px #000;
+    border-top: solid 1px #d8d8d8;
+    border-bottom: solid 1px #000;
   }
   .menu-primary-container.open {
     -webkit-transform: none;
@@ -2068,7 +2068,7 @@ a img {
 .entry {
   margin-bottom: 1.125em;
   padding-bottom: 1.125em;
-  border-bottom: solid 1px #000000;
+  border-bottom: solid 1px #d8d8d8;
 }
 
 .single .entry {
@@ -2452,7 +2452,7 @@ a img {
 .sidebar-right .inner {
   padding: 1.5em 5.556% 0;
   margin: 0.75em 0;
-  border-top: solid 2px #000000;
+  border-top: solid 1px #d8d8d8;
 }
 .sidebar-left .inner:after,
 .sidebar-right .inner:after {
@@ -2505,8 +2505,8 @@ a img {
     top: 0;
     right: -1px;
     bottom: 0;
-    width: 2px;
-    background: #000000;
+    width: 1px;
+    background: #d8d8d8;
   }
 
   .sidebar-right {

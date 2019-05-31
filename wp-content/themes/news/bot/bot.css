@@ -33,7 +33,7 @@ a {
 
 .bot-menu-container {
     position: fixed;
-    width: 100%;
+    width: 97%;
     z-index: 20;
     background: #f00;
     bottom: 0;
@@ -51,25 +51,37 @@ a {
 }
 .bot-menu-item:nth-child(3) {
     transition-duration: 180ms;
+    background: #d51387;
 }
 .bot-menu-item:nth-child(4) {
     transition-duration: 180ms;
+    background: #c90200;
 }
 .bot-menu-item:nth-child(5) {
     transition-duration: 180ms;
+    background: #f46a00;
 }
 .bot-menu-item:nth-child(6) {
     transition-duration: 180ms;
+    background: #2690db;
 }
 .bot-menu-item:nth-child(7) {
     transition-duration: 180ms;
+    background: #7c28b5;
 }
 .bot-menu-item:nth-child(8) {
     transition-duration: 180ms;
+    background: #53ae21;
 }
 .bot-menu-item:nth-child(9) {
     transition-duration: 180ms;
+    background: #35919a;
 }
+.bot-menu-item:nth-child(10) {
+
+}
+
+
 
 .bot-menu-open-button {
     z-index: 2;

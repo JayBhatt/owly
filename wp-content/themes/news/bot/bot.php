@@ -10,7 +10,7 @@
         <a id="fact-btn" href="javascript:void(0);" class="bot-menu-item"> <i class="fas fa-info"></i></a>
         <a id="speach-btn" href="javascript:void(0);" class="bot-menu-item"> <i class="fas fa-volume-down"></i></a>
         <a id="share-widget-btn" href="javascript:void(0);" class="bot-menu-item"> <i class="fas fa-share-alt"></i></a>
-        <a id="interest-btn" href="javascript:void(0);" class="bot-menu-item"> <i class="fas fa-briefcase"></i></a>
+        <a id="interest-btn" href="javascript:void(0);" class="bot-menu-item"> <i class="fas fa-home"></i></a>
         <a id="word-search-btn" href="javascript:void(0);" class="bot-menu-item"><i class="fas fa-atlas"></i></a>
         <a id="drawer-btn" href="javascript:void(0);" class="bot-menu-item"><i class="fas fa-folder-minus"></i></a>
     </nav>

@@ -8,10 +8,7 @@
 <footer id="site-footer" class="site-footer" role="contentinfo">
     <?php do_action( 'ct_mission_news_footer_top' ); ?>
     <div class="footer-title-container">
-        <?php get_template_part( 'logo' ) ?>
-        <?php if ( get_bloginfo( 'description' ) && get_theme_mod( 'tagline_footer' ) != 'no' ) {
-            echo '<p class="footer-tagline">' . esc_html( get_bloginfo( 'description' ) ) . '</p>';
-        } ?>
+        <?php echo '<img src="'.get_template_directory_uri(). '/assets/images/footer.png'.'" alt="News.com.au" width="850">'; ?>
         <?php ct_mission_news_social_icons_output( 'footer' ); ?>
     </div>
     <div id="menu-footer-container" class="menu-footer-container">

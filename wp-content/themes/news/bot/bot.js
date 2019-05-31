@@ -137,16 +137,15 @@ jQuery(document).ready(function($){
   $('body').on('click', '#fact-btn', function() {
     $.ajax({
       method: 'GET',
-      url: 'https://api.chucknorris.io/jokes/random'
-    })
+      url: 'http://numbersapi.com/' + Math.floor(Math.random() * 11) + '/trivia'
+  })
       .error (function () {
         $.notify('Oops...something went wrong, please try again after sometime.', "warn");
       })
       .success(function( response ) {
-        if (response && response.value) {
+        if (response) {
           var def = {
-            icon_url: response.icon_url,
-            value: response.value
+            value: response
           }
           var factContainer = $.templates("#factsResult");
           var factContent = factContainer.render(def);
